@@ -17,4 +17,4 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
 
 * Programming guide
   * [How to burn firmware to WisCore board](https://github.com/RAKWireless/wiscore/wiki/Burn-firmware-to-MT762x-Board)
-  
+  * [How to access serial console to WisCoreBoard](https://github.com/RAKWireless/wiscore/wiki/Access-serial-console)
