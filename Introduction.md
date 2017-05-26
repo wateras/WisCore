@@ -127,4 +127,4 @@
 ## WisCoreSDK
 <div align=center><img src="https://github.com/RAKWireless/get_started_with_wiscore/blob/master/img/openwrtlogo.png?raw=true" width="50%" height="50%"></div>
 
-WisCore runs a open-source distribution of embedded Linux called [OpenWrt](https://github.com/sevencheng798/wiscore) on WisCore Board Module.
+WisCore runs a open-source distribution of embedded Linux called [OpenWrt](https://github.com/RAKWireless/WisCore-SDK) on WisCore Board Module.
