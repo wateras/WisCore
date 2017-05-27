@@ -125,6 +125,6 @@
 + If you are the first compiler SDK you need to choose to use the product type and then set the compiler environment. so that the next time you recompile the same types of products when there is no need to in the environmental settings unless you want to switch to other types of products
 
 ## WisCoreSDK
-<div align=center><img src="https://github.com/RAKWireless/get_started_with_wiscore/blob/master/img/openwrtlogo.png?raw=true" width="50%" height="50%"></div>
+<div align=center><img src="https://github.com/RAKWireless/WisCore/blob/master/img/openwrtlogo.png?raw=true" width="50%" height="50%"></div>
 
 WisCore runs a open-source distribution of embedded Linux called [OpenWrt](https://github.com/RAKWireless/WisCore-SDK) on WisCore Board Module.
